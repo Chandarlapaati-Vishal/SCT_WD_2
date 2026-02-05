@@ -1,16 +1,20 @@
-# Calculator Web Application
+# Task 02 – Calculator Web App 🧮
 
-## Description
-A simple calculator web application built using HTML, CSS, and JavaScript.
+This is a basic calculator web application developed using JavaScript.
+It performs standard arithmetic operations with a clean UI.
 
-## Features
-- Basic arithmetic operations
-- DOM manipulation
-- Button click & keyboard input handling
-- Error handling
-- Responsive UI
+## 🚀 Features
+- Addition, Subtraction, Multiplication, Division
+- Real-time calculation
+- User-friendly interface
 
-## How to Run
-1. Download or extract the project
-2. Open index.html in any browser
-3. Start calculating
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## ▶️ How to Run
+Double-click index.html to launch the calculator.
+
+## 👤 Author
+Vishal
